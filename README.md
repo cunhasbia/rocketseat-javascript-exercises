@@ -1,2 +1,2 @@
 # rocketseat-javascript-exercises
-resolution of Javascript Starter exercises.
+Resolution of exercises proposed by Rocketseat during classes of Javascript Starter course.
